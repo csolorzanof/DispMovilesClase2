@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">clase2</string>
+    <string name="mensaje">Ingrese su nombre completo</string>
+    <string name="nombre_completo">Nombre Completo:</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="mensaje_bienvenida">Bienvenido a la aplicación %s, espero que lo disfrute. %s</string>
 </resources>
