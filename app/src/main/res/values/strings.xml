@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">clase2</string>
+    <string name="mensaje">Ingrese su nombre completo para recibir un código de descuento</string>
+    <string name="primer_nombre">Primer Nombre:</string>
+    <string name="primer_apellido">Primer Apellido:</string>
+    <string name="correo">Correo electrónico:</string>
+    <string name="aceptar">ACEPTAR</string>
 </resources>
